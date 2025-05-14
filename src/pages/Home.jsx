@@ -83,7 +83,7 @@ const Home = () => {
               className="w-full max-w-lg mx-auto rounded-xl shadow-2xl"
             />
 
-            <div className="absolute -bottom-10 left-1/2 transform -translate-x-1/2 bg-white dark:bg-dark-800 rounded-xl shadow-lg p-4 w-[95%] max-w-md">
+            <div className="hidden md:block absolute -bottom-10 left-1/2 transform -translate-x-1/2 bg-white dark:bg-dark-800 rounded-xl shadow-lg p-4 w-[95%] max-w-md">
               <div className="grid grid-cols-3 text-center">
                 <div>
                   <div className="text-3xl font-bold text-[#16518b]">15+</div>
@@ -103,7 +103,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* About section */} 
+      {/* About section */}
       <section className="py-24 bg-white dark:bg-dark-800 relative overflow-hidden">
         <div className="container-custom relative z-10">
           <motion.div
