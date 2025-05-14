@@ -78,7 +78,7 @@ const Home = () => {
 
           <div className="lg:w-1/2 relative">
             <img
-              src="./images/teknofest-1.jpg"
+              src="https://idil.meb.gov.tr/meb_iys_dosyalar/2024_02/21163118_teknofestturkiyebiletinoblog23423.jpg"
               alt="Teknofest team"
               className="w-full max-w-lg mx-auto rounded-xl shadow-2xl"
             />
