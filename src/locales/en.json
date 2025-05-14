@@ -1,0 +1,356 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "projects": "Projects",
+    "team": "Team",
+    "join": "Join Us",
+    "events": "News & Events",
+    "gallery": "Gallery",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "hero": {
+      "title": "Teknofest Club",
+      "subtitle": "Innovating for Tomorrow",
+      "description": "A student-led initiative dedicated to participating in Teknofest competitions and fostering innovation in technology.",
+      "cta": "Join The Club"
+    },
+    "about": {
+      "title": "About Teknofest Club",
+      "description": "We are a dedicated community of students passionate about technology and innovation. Our club focuses on developing projects for Teknofest, Turkey's largest technology and aerospace festival."
+    },
+    "projects": {
+      "title": "Our Projects",
+      "description": "Discover the innovative projects our teams are working on for Teknofest competitions.",
+      "viewAll": "View All Projects"
+    },
+    "events": {
+      "title": "Upcoming Events",
+      "description": "Stay updated with our latest events and activities.",
+      "viewAll": "View All Events"
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "description": "Get to know the dedicated members behind our innovative projects.",
+      "viewAll": "View Team"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide students with hands-on experience in technology projects and prepare them for Teknofest competitions, while fostering innovation, teamwork, and problem-solving skills."
+    },
+    "history": {
+      "title": "Our History",
+      "description": "Founded in 2020, Teknofest Club has grown from a small group of passionate students to a thriving community of innovators, with multiple successful entries in Teknofest competitions."
+    },
+    "values": {
+      "title": "Our Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "We encourage creative thinking and novel approaches to technological challenges."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "We believe in the power of teamwork and knowledge sharing."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We strive for high-quality results in all our endeavors."
+      },
+      "learning": {
+        "title": "Continuous Learning",
+        "description": "We foster a culture of curiosity and lifelong learning."
+      }
+    },
+    "timeline": {
+      "title": "Our Journey",
+      "events": [
+        {
+          "year": "2020",
+          "title": "Club Founding",
+          "description": "Established with 15 founding members."
+        },
+        {
+          "year": "2021",
+          "title": "First Teknofest Entry",
+          "description": "Participated in the Robotics category."
+        },
+        {
+          "year": "2022",
+          "title": "Award Winners",
+          "description": "Won 2nd place in AI competition."
+        },
+        {
+          "year": "2023",
+          "title": "Expansion",
+          "description": "Grew to 50+ members across multiple teams."
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "description": "Explore the innovative projects our teams have been working on for Teknofest competitions.",
+    "filter": {
+      "all": "All Projects",
+      "current": "Current Projects",
+      "past": "Past Projects",
+      "search": "Search projects..."
+    },
+    "categories": {
+      "robotics": "Robotics",
+      "ai": "Artificial Intelligence",
+      "uav": "Unmanned Aerial Vehicles",
+      "iot": "Internet of Things",
+      "cyber": "Cybersecurity"
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "Meet the dedicated individuals who make our club successful.",
+    "filter": {
+      "all": "All Members",
+      "leadership": "Leadership",
+      "technical": "Technical Teams",
+      "outreach": "Outreach",
+      "search": "Search members..."
+    },
+    "roles": {
+      "president": "President",
+      "vicePresident": "Vice President",
+      "teamLead": "Team Lead",
+      "member": "Member",
+      "advisor": "Faculty Advisor"
+    }
+  },
+  "join": {
+    "title": "Join Our Club",
+    "description": "We're always looking for passionate students to join our team. Fill out the form below to express your interest.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "department": "Department",
+      "year": "Year of Study",
+      "why": "Why do you want to join?",
+      "team": "Preferred Team",
+      "experience": "Relevant Experience",
+      "submit": "Submit Application",
+      "success": "Application submitted successfully! We'll contact you soon.",
+      "error": "There was an error submitting your application. Please try again."
+    },
+    "teams": {
+      "title": "Our Teams",
+      "robotics": {
+        "name": "Robotics Team",
+        "description": "Design and build robots for various competitions."
+      },
+      "ai": {
+        "name": "AI & Software Team",
+        "description": "Develop intelligent algorithms and software solutions."
+      },
+      "uav": {
+        "name": "UAV Team",
+        "description": "Create unmanned aerial vehicles for different challenges."
+      },
+      "design": {
+        "name": "Design Team",
+        "description": "Handle the visual and user experience aspects of projects."
+      },
+      "pr": {
+        "name": "PR & Marketing Team",
+        "description": "Manage our social media presence and community outreach."
+      }
+    }
+  },
+  "events": {
+    "title": "News & Events",
+    "description": "Stay updated with our latest activities, workshops, and competitions.",
+    "filter": {
+      "all": "All Events",
+      "upcoming": "Upcoming Events",
+      "past": "Past Events",
+      "search": "Search events..."
+    },
+    "types": {
+      "workshop": "Workshop",
+      "competition": "Competition",
+      "meeting": "Meeting",
+      "social": "Social Event",
+      "other": "Other"
+    },
+    "registerButton": "Register",
+    "eventDetails": {
+      "date": "Date",
+      "time": "Time",
+      "location": "Location",
+      "type": "Event Type",
+      "organizer": "Organizer"
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "description": "Visual memories from our workshops, competitions, and team activities.",
+    "filter": {
+      "all": "All Photos",
+      "workshops": "Workshops",
+      "competitions": "Competitions",
+      "teamBuilding": "Team Building",
+      "projects": "Projects",
+      "search": "Search gallery..."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have questions? Get in touch with us using the form below or through our social media channels.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully! We'll get back to you soon.",
+      "error": "There was an error sending your message. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "social": "Follow Us"
+    }
+  },
+  "admin": {
+    "login": {
+      "title": "Admin Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "error": "Invalid credentials. Please try again."
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "summary": "Summary",
+      "members": "Total Members",
+      "projects": "Active Projects",
+      "events": "Upcoming Events",
+      "requests": "New Join Requests",
+      "messages": "Unread Messages"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "projects": "Projects",
+      "team": "Team",
+      "events": "Events",
+      "gallery": "Gallery",
+      "joinRequests": "Join Requests",
+      "messages": "Messages",
+      "settings": "Settings",
+      "logout": "Logout"
+    },
+    "common": {
+      "create": "Create",
+      "edit": "Edit",
+      "delete": "Delete",
+      "save": "Save",
+      "cancel": "Cancel",
+      "search": "Search",
+      "filter": "Filter",
+      "status": "Status",
+      "actions": "Actions",
+      "noResults": "No results found",
+      "areYouSure": "Are you sure?",
+      "confirmDelete": "This action cannot be undone.",
+      "successCreate": "Created successfully",
+      "successUpdate": "Updated successfully",
+      "successDelete": "Deleted successfully",
+      "error": "An error occurred. Please try again."
+    },
+    "projects": {
+      "title": "Manage Projects",
+      "new": "New Project",
+      "name": "Project Name",
+      "description": "Description",
+      "category": "Category",
+      "team": "Team Members",
+      "year": "Year",
+      "status": "Status",
+      "image": "Project Image",
+      "achievements": "Achievements"
+    },
+    "team": {
+      "title": "Manage Team",
+      "new": "New Member",
+      "name": "Name",
+      "role": "Role",
+      "department": "Department",
+      "email": "Email",
+      "bio": "Bio",
+      "photo": "Photo",
+      "social": "Social Links"
+    },
+    "events": {
+      "title": "Manage Events",
+      "new": "New Event",
+      "name": "Event Name",
+      "description": "Description",
+      "date": "Date",
+      "time": "Time",
+      "location": "Location",
+      "type": "Event Type",
+      "image": "Event Image"
+    },
+    "gallery": {
+      "title": "Manage Gallery",
+      "upload": "Upload Images",
+      "caption": "Caption",
+      "category": "Category",
+      "date": "Date"
+    },
+    "joinRequests": {
+      "title": "Join Requests",
+      "approve": "Approve",
+      "reject": "Reject",
+      "pending": "Pending",
+      "approved": "Approved",
+      "rejected": "Rejected"
+    },
+    "messages": {
+      "title": "Contact Messages",
+      "read": "Read",
+      "unread": "Unread",
+      "reply": "Reply",
+      "delete": "Delete"
+    },
+    "settings": {
+      "title": "Settings",
+      "general": "General Settings",
+      "social": "Social Media",
+      "about": "About Text",
+      "logo": "Logo",
+      "theme": "Theme",
+      "language": "Default Language"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "moreInfo": "More Information",
+    "readMore": "Read More",
+    "back": "Back",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "langSwitch": "Switch to Türkçe",
+    "error": {
+      "title": "An error occurred",
+      "retry": "Try Again",
+      "contact": "Contact Support"
+    },
+    "notFound": {
+      "title": "Page Not Found",
+      "message": "The page you're looking for doesn't exist or has been moved.",
+      "home": "Go to Homepage"
+    }
+  }
+}

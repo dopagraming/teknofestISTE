@@ -1,0 +1,356 @@
+{
+  "nav": {
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "projects": "Projelerimiz",
+    "team": "Ekibimiz",
+    "join": "Bize Katılın",
+    "events": "Haberler & Etkinlikler",
+    "gallery": "Galeri",
+    "contact": "İletişim"
+  },
+  "home": {
+    "hero": {
+      "title": "Teknofest Kulübü",
+      "subtitle": "Yarın İçin Yenilik",
+      "description": "Teknofest yarışmalarına katılmaya ve teknoloji alanında yenilikçiliği teşvik etmeye adanmış öğrenci liderliğindeki bir girişim.",
+      "cta": "Kulübe Katıl"
+    },
+    "about": {
+      "title": "Teknofest Kulübü Hakkında",
+      "description": "Teknoloji ve yenilik konusunda tutkulu öğrencilerden oluşan bir topluluğuz. Kulübümüz, Türkiye'nin en büyük teknoloji ve havacılık festivali olan Teknofest için projeler geliştirmeye odaklanmaktadır."
+    },
+    "projects": {
+      "title": "Projelerimiz",
+      "description": "Takımlarımızın Teknofest yarışmaları için üzerinde çalıştığı yenilikçi projeleri keşfedin.",
+      "viewAll": "Tüm Projeleri Gör"
+    },
+    "events": {
+      "title": "Yaklaşan Etkinlikler",
+      "description": "En son etkinliklerimiz ve faaliyetlerimizle ilgili güncel kalın.",
+      "viewAll": "Tüm Etkinlikleri Gör"
+    },
+    "team": {
+      "title": "Ekibimizle Tanışın",
+      "description": "Yenilikçi projelerimizin arkasındaki özverili üyelerimizi tanıyın.",
+      "viewAll": "Ekibi Gör"
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "mission": {
+      "title": "Misyonumuz",
+      "description": "Öğrencilere teknoloji projelerinde pratik deneyim kazandırmak ve onları Teknofest yarışmalarına hazırlamak, aynı zamanda yenilikçilik, takım çalışması ve problem çözme becerilerini teşvik etmek."
+    },
+    "history": {
+      "title": "Tarihçemiz",
+      "description": "2020 yılında kurulan Teknofest Kulübü, tutkulu öğrencilerden oluşan küçük bir gruptan, Teknofest yarışmalarında birçok başarılı girişime sahip gelişen bir yenilikçiler topluluğuna dönüştü."
+    },
+    "values": {
+      "title": "Değerlerimiz",
+      "innovation": {
+        "title": "Yenilikçilik",
+        "description": "Teknolojik zorluklara yaratıcı düşünce ve yeni yaklaşımları teşvik ediyoruz."
+      },
+      "collaboration": {
+        "title": "İşbirliği",
+        "description": "Takım çalışması ve bilgi paylaşımının gücüne inanıyoruz."
+      },
+      "excellence": {
+        "title": "Mükemmellik",
+        "description": "Tüm çabalarımızda yüksek kaliteli sonuçlar için çabalıyoruz."
+      },
+      "learning": {
+        "title": "Sürekli Öğrenme",
+        "description": "Merak ve yaşam boyu öğrenme kültürünü teşvik ediyoruz."
+      }
+    },
+    "timeline": {
+      "title": "Yolculuğumuz",
+      "events": [
+        {
+          "year": "2020",
+          "title": "Kulüp Kuruluşu",
+          "description": "15 kurucu üye ile kuruldu."
+        },
+        {
+          "year": "2021",
+          "title": "İlk Teknofest Katılımı",
+          "description": "Robotik kategorisine katıldık."
+        },
+        {
+          "year": "2022",
+          "title": "Ödül Kazananlar",
+          "description": "Yapay Zeka yarışmasında 2. olduk."
+        },
+        {
+          "year": "2023",
+          "title": "Genişleme",
+          "description": "Birden fazla takımda 50+ üyeye ulaştık."
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projelerimiz",
+    "description": "Takımlarımızın Teknofest yarışmaları için üzerinde çalıştığı yenilikçi projeleri keşfedin.",
+    "filter": {
+      "all": "Tüm Projeler",
+      "current": "Mevcut Projeler",
+      "past": "Geçmiş Projeler",
+      "search": "Projelerde ara..."
+    },
+    "categories": {
+      "robotics": "Robotik",
+      "ai": "Yapay Zeka",
+      "uav": "İnsansız Hava Araçları",
+      "iot": "Nesnelerin İnterneti",
+      "cyber": "Siber Güvenlik"
+    }
+  },
+  "team": {
+    "title": "Ekibimiz",
+    "description": "Kulübümüzü başarılı kılan özverili bireyleri tanıyın.",
+    "filter": {
+      "all": "Tüm Üyeler",
+      "leadership": "Yönetim",
+      "technical": "Teknik Ekipler",
+      "outreach": "İletişim",
+      "search": "Üyelerde ara..."
+    },
+    "roles": {
+      "president": "Başkan",
+      "vicePresident": "Başkan Yardımcısı",
+      "teamLead": "Takım Lideri",
+      "member": "Üye",
+      "advisor": "Fakülte Danışmanı"
+    }
+  },
+  "join": {
+    "title": "Kulübümüze Katılın",
+    "description": "Her zaman ekibimize katılacak tutkulu öğrenciler arıyoruz. İlginizi belirtmek için aşağıdaki formu doldurun.",
+    "form": {
+      "name": "Ad Soyad",
+      "email": "E-posta Adresi",
+      "department": "Bölüm",
+      "year": "Öğrenim Yılı",
+      "why": "Neden katılmak istiyorsunuz?",
+      "team": "Tercih Ettiğiniz Takım",
+      "experience": "İlgili Deneyim",
+      "submit": "Başvuruyu Gönder",
+      "success": "Başvurunuz başarıyla gönderildi! Yakında sizinle iletişime geçeceğiz.",
+      "error": "Başvurunuzu gönderirken bir hata oluştu. Lütfen tekrar deneyin."
+    },
+    "teams": {
+      "title": "Takımlarımız",
+      "robotics": {
+        "name": "Robotik Takımı",
+        "description": "Çeşitli yarışmalar için robotlar tasarlayın ve inşa edin."
+      },
+      "ai": {
+        "name": "Yapay Zeka & Yazılım Takımı",
+        "description": "Akıllı algoritmalar ve yazılım çözümleri geliştirin."
+      },
+      "uav": {
+        "name": "İHA Takımı",
+        "description": "Farklı zorluklar için insansız hava araçları oluşturun."
+      },
+      "design": {
+        "name": "Tasarım Takımı",
+        "description": "Projelerin görsel ve kullanıcı deneyimi yönlerini ele alın."
+      },
+      "pr": {
+        "name": "PR & Pazarlama Takımı",
+        "description": "Sosyal medya varlığımızı ve topluluk iletişimimizi yönetin."
+      }
+    }
+  },
+  "events": {
+    "title": "Haberler & Etkinlikler",
+    "description": "En son etkinliklerimiz, atölyelerimiz ve yarışmalarımızla ilgili güncel kalın.",
+    "filter": {
+      "all": "Tüm Etkinlikler",
+      "upcoming": "Yaklaşan Etkinlikler",
+      "past": "Geçmiş Etkinlikler",
+      "search": "Etkinliklerde ara..."
+    },
+    "types": {
+      "workshop": "Atölye Çalışması",
+      "competition": "Yarışma",
+      "meeting": "Toplantı",
+      "social": "Sosyal Etkinlik",
+      "other": "Diğer"
+    },
+    "registerButton": "Kayıt Ol",
+    "eventDetails": {
+      "date": "Tarih",
+      "time": "Saat",
+      "location": "Konum",
+      "type": "Etkinlik Türü",
+      "organizer": "Organizatör"
+    }
+  },
+  "gallery": {
+    "title": "Galeri",
+    "description": "Atölyelerimizden, yarışmalarımızdan ve takım etkinliklerimizden görsel anılar.",
+    "filter": {
+      "all": "Tüm Fotoğraflar",
+      "workshops": "Atölyeler",
+      "competitions": "Yarışmalar",
+      "teamBuilding": "Takım Oluşturma",
+      "projects": "Projeler",
+      "search": "Galeride ara..."
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "description": "Sorularınız mı var? Aşağıdaki formu veya sosyal medya kanallarımızı kullanarak bizimle iletişime geçin.",
+    "form": {
+      "name": "Adınız",
+      "email": "E-posta Adresi",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "submit": "Mesaj Gönder",
+      "success": "Mesajınız başarıyla gönderildi! Yakında size geri döneceğiz.",
+      "error": "Mesajınızı gönderirken bir hata oluştu. Lütfen tekrar deneyin."
+    },
+    "info": {
+      "title": "İletişim Bilgileri",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "address": "Adres",
+      "social": "Bizi Takip Edin"
+    }
+  },
+  "admin": {
+    "login": {
+      "title": "Yönetici Girişi",
+      "email": "E-posta",
+      "password": "Şifre",
+      "submit": "Giriş Yap",
+      "error": "Geçersiz kimlik bilgileri. Lütfen tekrar deneyin."
+    },
+    "dashboard": {
+      "title": "Kontrol Paneli",
+      "summary": "Özet",
+      "members": "Toplam Üyeler",
+      "projects": "Aktif Projeler",
+      "events": "Yaklaşan Etkinlikler",
+      "requests": "Yeni Katılım İstekleri",
+      "messages": "Okunmamış Mesajlar"
+    },
+    "sidebar": {
+      "dashboard": "Kontrol Paneli",
+      "projects": "Projeler",
+      "team": "Ekip",
+      "events": "Etkinlikler",
+      "gallery": "Galeri",
+      "joinRequests": "Katılım İstekleri",
+      "messages": "Mesajlar",
+      "settings": "Ayarlar",
+      "logout": "Çıkış Yap"
+    },
+    "common": {
+      "create": "Oluştur",
+      "edit": "Düzenle",
+      "delete": "Sil",
+      "save": "Kaydet",
+      "cancel": "İptal",
+      "search": "Ara",
+      "filter": "Filtrele",
+      "status": "Durum",
+      "actions": "İşlemler",
+      "noResults": "Sonuç bulunamadı",
+      "areYouSure": "Emin misiniz?",
+      "confirmDelete": "Bu işlem geri alınamaz.",
+      "successCreate": "Başarıyla oluşturuldu",
+      "successUpdate": "Başarıyla güncellendi",
+      "successDelete": "Başarıyla silindi",
+      "error": "Bir hata oluştu. Lütfen tekrar deneyin."
+    },
+    "projects": {
+      "title": "Projeleri Yönet",
+      "new": "Yeni Proje",
+      "name": "Proje Adı",
+      "description": "Açıklama",
+      "category": "Kategori",
+      "team": "Takım Üyeleri",
+      "year": "Yıl",
+      "status": "Durum",
+      "image": "Proje Görseli",
+      "achievements": "Başarılar"
+    },
+    "team": {
+      "title": "Ekibi Yönet",
+      "new": "Yeni Üye",
+      "name": "İsim",
+      "role": "Rol",
+      "department": "Bölüm",
+      "email": "E-posta",
+      "bio": "Biyografi",
+      "photo": "Fotoğraf",
+      "social": "Sosyal Bağlantılar"
+    },
+    "events": {
+      "title": "Etkinlikleri Yönet",
+      "new": "Yeni Etkinlik",
+      "name": "Etkinlik Adı",
+      "description": "Açıklama",
+      "date": "Tarih",
+      "time": "Saat",
+      "location": "Konum",
+      "type": "Etkinlik Türü",
+      "image": "Etkinlik Görseli"
+    },
+    "gallery": {
+      "title": "Galeriyi Yönet",
+      "upload": "Görsel Yükle",
+      "caption": "Başlık",
+      "category": "Kategori",
+      "date": "Tarih"
+    },
+    "joinRequests": {
+      "title": "Katılım İstekleri",
+      "approve": "Onayla",
+      "reject": "Reddet",
+      "pending": "Beklemede",
+      "approved": "Onaylandı",
+      "rejected": "Reddedildi"
+    },
+    "messages": {
+      "title": "İletişim Mesajları",
+      "read": "Okundu",
+      "unread": "Okunmadı",
+      "reply": "Yanıtla",
+      "delete": "Sil"
+    },
+    "settings": {
+      "title": "Ayarlar",
+      "general": "Genel Ayarlar",
+      "social": "Sosyal Medya",
+      "about": "Hakkımızda Metni",
+      "logo": "Logo",
+      "theme": "Tema",
+      "language": "Varsayılan Dil"
+    }
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "moreInfo": "Daha Fazla Bilgi",
+    "readMore": "Daha Fazla Oku",
+    "back": "Geri",
+    "darkMode": "Karanlık Mod",
+    "lightMode": "Aydınlık Mod",
+    "langSwitch": "Switch to English",
+    "error": {
+      "title": "Bir hata oluştu",
+      "retry": "Tekrar Dene",
+      "contact": "Desteğe Başvur"
+    },
+    "notFound": {
+      "title": "Sayfa Bulunamadı",
+      "message": "Aradığınız sayfa mevcut değil veya taşınmış.",
+      "home": "Ana Sayfaya Git"
+    }
+  }
+}
