@@ -57,7 +57,7 @@ const Navbar = () => {
         <Link to="/" className="flex items-center">
           <span className="text-2xl font-bold text-primary-500">
             Teknofest
-            <span className="text-accent-500">İSTE</span>
+            <span className="text-accent-500">İSTE</span> Clone
           </span>
         </Link>
 
